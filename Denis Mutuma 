@@ -1,0 +1,25 @@
+/*programming my name*/
+#include<stdio.h>
+
+int main()
+{
+       printf("my name is Denis Mutuma MAINGI");
+return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
