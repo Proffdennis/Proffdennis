@@ -1,0 +1,20 @@
+//to test whether a given Year is a leap year or not
+#include<stdio.h>
+int main()
+{
+int year;
+int month;
+printf("enter the year/n")
+scanf("%d",&year);
+printf ("enter number of days in February month/ n");
+scanf("%d"&month);
+if(year%4=0)
+{
+printf ("the year is a leap year/n");
+}
+else
+{
+print f("the yeay is not a leap year /n");
+}
+return 0;
+}

@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main()
+{
+/*write a program to demonstrate usage of arithmetic operator*/
+a=8,b=3;
+int addition,  subtraction, multiplication, division,modulus;
+addition=a+b;
+subtraction=a-b;
+multiplication=a*b;
+division=a/b;
+modulus=a%b;
+printf(addition of two intergers a,b is %d/n", addition);
+printf(subtraction of two intergers a,b is%d/n", subtraction);
+printf(multiplication of two intergers a, b is %d/n",multiplication);
+printf(division of two intergers a,b is %d/n", division);
+printf(modulus of two intergers a,b is %d/n", modulus);
+}

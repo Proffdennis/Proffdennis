@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main (){
+ int t,s;
+for(t=1;t<=5;t++){
+
+s=t*t*t;
+printf("interger %d and it's cube %d\n",t,s);
+}
+return 0;
+}

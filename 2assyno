@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main ()
+{
+int t ,sum ;
+for(t=1;t<=10;t++){
+sum=sum+t;
+printf("the sum is %d\n",sum);
+}
+return 0;
+}
